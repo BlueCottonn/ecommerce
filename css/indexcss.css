@@ -127,7 +127,7 @@ a:hover {
 }
 
 .hero-section {
-    background-image: url('/img/BGIMAGE.jpg');
+    background-image: url('img/BGIMAGE.jpg');
     background-size: cover;
     background-position: center bottom;
     color: #333;
@@ -411,4 +411,5 @@ footer form .btn {
 
 footer form .btn:hover {
     background-color: #EDA3B8; 
+
 }
